@@ -1,4 +1,7 @@
 # SI_lab2_215081
+<img width="448" height="640" alt="image" src="https://github.com/user-attachments/assets/3399d494-0292-44bb-8769-956f0400675a" />
+
+<img width="448" height="640" alt="image" src="https://github.com/user-attachments/assets/b881f33c-356a-4a3c-a3ad-4f42c3b2b9e4" />
 
 
 ### 1. searchBookByTitle 
