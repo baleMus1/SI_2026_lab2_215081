@@ -1,4 +1,5 @@
 # SI_2026_lab2_215081
+```
 graph TD
     1[1: if title.isEmpty] -->|Да| 2[2: throw IllegalArgumentException]
     1 -->|Не| 3[3: List results = new ArrayList, init for-loop]
@@ -15,3 +16,5 @@ graph TD
     4 -->|Не| 7{7: if results.isEmpty}
     7 -->|Да| 8[8: return null]
     7 -->|Не| 9[9: return results]
+```
+
