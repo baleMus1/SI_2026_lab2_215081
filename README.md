@@ -1,5 +1,6 @@
 # SI_2026_lab2_215081
-```
+```mermaid
+
 graph TD
     1[1: if title.isEmpty] -->|Да| 2[2: throw IllegalArgumentException]
     1 -->|Не| 3[3: List results = new ArrayList, init for-loop]
