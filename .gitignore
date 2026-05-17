@@ -1,0 +1,53 @@
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+build.xml
+
+# Maven
+target/
+*.jar
+*.war
+*.ear
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test coverage
+.jacoco/
+coverage/
+
+# IDE settings
+*.swp
+*.swo
+*~
+.env
+.env.local
+
+# Application/build artifacts
+*.class
+*.log
+
